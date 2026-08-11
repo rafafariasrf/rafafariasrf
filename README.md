@@ -1,6 +1,6 @@
 # Olá, eu sou o Rafa Farias 👋
 
-Desenvolvedor **Front-end em formação**.<br>
+Sou Designer e Desenvolvedor **Front-end em formação**.<br>
 Atualmente aprendendo e praticando **HTML, CSS, JavaScript, Git e GitHub**.<br>
 Estudando boas práticas de desenvolvimento e criação de interfaces para web.
 
